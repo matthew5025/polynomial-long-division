@@ -1,0 +1,6 @@
+c:\users\natsa\documents\visual studio 2015\Projects\PolyLongDivision\PolyLongDivision\bin\Debug\PolyLongDivision.exe.config
+C:\Users\natsa\Documents\visual studio 2015\Projects\PolyLongDivision\PolyLongDivision\bin\Debug\PolyLongDivision.exe
+C:\Users\natsa\Documents\visual studio 2015\Projects\PolyLongDivision\PolyLongDivision\bin\Debug\PolyLongDivision.pdb
+C:\Users\natsa\Documents\visual studio 2015\Projects\PolyLongDivision\PolyLongDivision\obj\Debug\PolyLongDivision.csprojResolveAssemblyReference.cache
+C:\Users\natsa\Documents\visual studio 2015\Projects\PolyLongDivision\PolyLongDivision\obj\Debug\PolyLongDivision.exe
+C:\Users\natsa\Documents\visual studio 2015\Projects\PolyLongDivision\PolyLongDivision\obj\Debug\PolyLongDivision.pdb
